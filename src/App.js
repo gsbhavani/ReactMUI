@@ -20,7 +20,7 @@ function App() {
           component="main"
           sx={{
             flexGrow: 1,
-            padding: 3,
+            padding: 4,
             marginTop: "64px", // AppBar height
             marginLeft: "140px", // Drawer width
             display: "flex",
