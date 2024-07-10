@@ -27,6 +27,8 @@ function App() {
           }}
         >
           <MovieList />
+          <Counter />
+          
         </Box>
       </Box>
     </Provider>
