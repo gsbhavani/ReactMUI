@@ -20,7 +20,7 @@ function App() {
           component="main"
           sx={{
             flexGrow: 1,
-            padding: 4,
+            padding: 3,
             marginTop: "64px", // AppBar height
             marginLeft: "140px", // Drawer width
             display: "flex",
@@ -29,7 +29,7 @@ function App() {
             height: "calc(100vh - 64px)", // Full viewport height minus AppBar height
           }}
         >
-           <Counter />
+           <Counter />  
           <MovieList />
          
           
