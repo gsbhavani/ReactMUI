@@ -29,7 +29,7 @@ function App() {
             height: "calc(100vh - 64px)", // Full viewport height minus AppBar height
           }}
         >
-           <Counter />  
+           
           <MovieList />
          
           
